@@ -50,3 +50,22 @@ This is where the real growth happens 🌱
 
 🧠 _“Consistency creates confidence. Byte by byte, I become unstoppable.”_
 
+
+---
+
+## 📈 Contribution Streak Tracker
+
+This section is updated automatically to show that I’ve practiced DSA every day.  
+Each entry represents one day of logged effort via GitHub Actions ✅
+
+📅 **Daily Log**
+```
+📘 Practiced DSA on [AUTO GENERATED]
+📘 Practiced DSA on [AUTO GENERATED]
+📘 Practiced DSA on [AUTO GENERATED]
+...
+```
+
+_(Log entries are inside `activity_log.txt`, updated daily via automation.)_
+
+
