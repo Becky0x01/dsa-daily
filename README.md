@@ -3,7 +3,18 @@
 Welcome to my daily grind log through the NeetCode DSA roadmap.  
 This repo keeps me accountable, growing, and sharp 💪
 
+
 ---
+
+## 🔥 Current Streak Summary
+
+📆 **Streak:** 14 days  
+🗓️ **Last Updated:** 2025-04-04
+
+---
+
+> _"Discipline is choosing between what you want now and what you want most."_
+
 
 ## 🎯 Goals
 - ✅ Solve 100+ DSA problems by September
