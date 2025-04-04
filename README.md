@@ -6,7 +6,7 @@ This repo keeps me accountable, growing, and sharp 💪
 ---
 
 ## 🎯 Goals
-- ✅ Solve 100+ DSA problems by [Insert Target Month]
+- ✅ Solve 100+ DSA problems by September
 - ✅ Commit at least 5 days/week
 - ✅ Understand the patterns, not just memorize solutions
 - ✅ Build confidence in system design and problem solving
@@ -21,7 +21,7 @@ This repo keeps me accountable, growing, and sharp 💪
 ---
 
 ## 📁 Categories
-Your folder structure is organized to match the NeetCode roadmap:
+My folder structure is organized to match the NeetCode roadmap:
 
 - `arrays_hashing/`
 - `two_pointers/`
